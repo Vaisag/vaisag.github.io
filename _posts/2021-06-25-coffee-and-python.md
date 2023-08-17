@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Coffee & Python
-image: "/posts/coffee_python.jpg"
+image: "/posts/primes_image.jpeg"
 tags: [Python, Coffee]
 ---
 
