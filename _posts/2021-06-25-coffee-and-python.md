@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Coffee & Python
-image: "/posts/coffee_python.jpg"
+image: ![alt text](/img/posts/coffee_python.jpg "Coffee & Python - I love them!")
 tags: [Python, Coffee]
 ---
 
