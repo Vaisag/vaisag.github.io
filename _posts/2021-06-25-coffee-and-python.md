@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: Coffee & Python
-image: ![alt text](/img/posts/coffee_python.jpg "Coffee & Python - I love them!")
+image: "/img/posts/coffee_python.jpg"
 tags: [Python, Coffee]
 ---
 
